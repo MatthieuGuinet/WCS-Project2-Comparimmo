@@ -1,6 +1,6 @@
 ## Project 2
 
-#Compar'Immo
+# Compar'Immo
 
 Compar'immo est un projet permettant de rechercher des données de vente immobilière sur la France.
 
